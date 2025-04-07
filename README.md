@@ -26,3 +26,5 @@ Data source: [Rdatasets Repository](https://vincentarelbundock.github.io/Rdatase
    - DBSCAN with various eps and min_samples values
 ## Plots
 you can find the plots in the `Part1_plots`, `Part2_plots`  and `Part3_plots`  folder. 
+
+NB: Parts of the code are based on the teacher's demonstration.
